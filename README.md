@@ -1,6 +1,6 @@
 # flutter_practice
 
-A new Flutter project.
+🔰 Clean Architecture
 
 ## Getting Started
 
